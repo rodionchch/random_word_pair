@@ -1,4 +1,4 @@
-# flutter_application_1
+# random_word_pair
 
 A new Flutter project.
 
